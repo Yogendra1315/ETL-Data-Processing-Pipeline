@@ -1,9 +1,0 @@
-{
-	"name": "adf4olympic",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "b04f45b3-aa33-4e64-b52b-0b0400c55054",
-		"tenantId": "f297a429-bc01-4ba3-beb1-c2e4dcd557a0"
-	}
-}
